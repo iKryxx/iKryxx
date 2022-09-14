@@ -7,4 +7,4 @@
 iKryxx/iKryxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-am currently making a Minecraft clone in unity with own physics and mesh renderers.feel free to check out my discord server for updates and downloads! https://discord.gg/s3N8FAhxqK
+am currently making OvCaHell. Feel free to check out my discord server for updates and downloads! https://discord.gg/s3N8FAhxqK
