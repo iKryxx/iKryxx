@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @iKryxx
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning/mastering c#
+- 👋 Hi, I’m @iKryxxDEV, Foudner and CEO of Binary Origins
+- 🌱 I’m currently working on small side projects
 - 📫 How to reach me: 
-- - Discord IkryxxDev#6784
+- - Discord iKryxxDEV
 
 <!---
 iKryxx/iKryxx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
